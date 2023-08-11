@@ -1,8 +1,8 @@
 # flutter-basic
 
 A new Flutter project.
-Author: jisna
-
+## Author
+Jisna James
 ## Getting Started
 
 This project is a starting point for a Flutter application.

@@ -1,6 +1,7 @@
-# sample_project
+# flutter-basic
 
 A new Flutter project.
+Author: jisna
 
 ## Getting Started
 

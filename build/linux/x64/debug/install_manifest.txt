@@ -1,0 +1,12 @@
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/sample_project
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/jisna/Desktop/sample_project/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
